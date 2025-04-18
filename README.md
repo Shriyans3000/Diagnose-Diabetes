@@ -1,4 +1,4 @@
-#Diagnose Diabetes 
+Diagnose Diabetes 
 Overview
 This project develops a Python-based AI model to predict diabetes using a Random Forest Classifier. The model analyzes medical data (e.g., Pregnancies, Glucose, BloodPressure) and provides predictions with confidence levels. It includes an interactive interface and visualizations to make the results easy to understand.
 
